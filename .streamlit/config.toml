@@ -1,0 +1,13 @@
+# .streamlit/config.toml
+
+[server]
+# Aumenta el límite de carga a 100 MB (coincide con tu código)
+maxUploadSize = 100
+
+[theme]
+# Tema visual para tu app (opcional, ajusta los colores a tu gusto)
+primaryColor = "#E74C3C"      # Rojo para resaltar outliers
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+font = "sans serif"

@@ -1,0 +1,25 @@
+# .gitignore
+
+# Entornos virtuales (Python)
+venv/
+env/
+.venv/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración local (por si luego usas contraseñas)
+.streamlit/secrets.toml
+
+# Sistema operativo (Windows/Mac)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs y editores de código
+.vscode/
+.idea/
+*.spyproject
