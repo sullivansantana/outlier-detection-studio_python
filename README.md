@@ -149,12 +149,6 @@ xlrd>=2.0           # Excel (.xls) support
 
 ---
 
-## 📄 License
-
-Released under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
-
 ## 👤 Author
 
 **Ar Sullivan Santana Najera**
