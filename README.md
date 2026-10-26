@@ -48,9 +48,10 @@ exercise the full analytics stack: **pandas** for data handling,
 
 > *(Add 1–3 screenshots or a short GIF here. Suggested: Upload tab with metrics, Detection tab with the scatter plot, Results table.)*
 
+
 | Upload | Detection | Results |
 |--------|-----------|---------|
-| ![upload](docs/screenshot-upload.png) | ![detect](docs/screenshot-detect.png) | ![results](docs/screenshot-results.png) |
+| ![upload](docs/Upload.png) | ![detect](docs/Detection.png) | ![results](docs/Results.png) |
 
 ---
 
