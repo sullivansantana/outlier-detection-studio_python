@@ -122,14 +122,16 @@ Then open **http://localhost:8501** in your browser.
 
 ```
 outlier-detection-studio/
-├── app.py                     # Main Streamlit application
-├── requirements.txt
 ├── .streamlit/
 │   └── config.toml            # Server config (max upload size, theme)
 ├── docs/
-│   └── screenshot-*.png
-├── README.md
-└── LICENSE
+│   ├── Detection.png          # Screenshot of the detection tab
+│   ├── Results.png            # Screenshot of the results table
+│   └── Upload.png             # Screenshot of the upload tab
+├── .gitignore                 # Git exclusions (venv, __pycache__, etc.)
+├── app.py                     # Main Streamlit application
+├── README.md                  # Project documentation
+└── requirements.txt           # Python dependencies
 ```
 
 ---
